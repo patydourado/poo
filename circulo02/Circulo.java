@@ -18,7 +18,8 @@ public class Circulo {
 		return raio;
 	}
 
-	public void setRaio(int raio) {
-		this.raio = raio;
+   public void setRaio(int raio) {
+		if(raio>0)
+			this.raio = raio;
 	}
 }
