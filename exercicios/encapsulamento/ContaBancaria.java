@@ -1,4 +1,4 @@
-package exercicios.encapsulamento
+package exercicios.encapsulamento;
   
 // Código SEM encapsulamento 
 public class ContaBancaria {
